@@ -1,0 +1,126 @@
+
+/* Class = "UILabel"; text = "订单总数"; ObjectID = "5AY-sK-uJv"; */
+"5AY-sK-uJv.text" = "订单总数";
+
+/* Class = "UILabel"; text = "12312312313"; ObjectID = "6KY-Di-Kwj"; */
+"6KY-Di-Kwj.text" = "12312312313";
+
+/* Class = "UILabel"; text = "全职着装顾问经理"; ObjectID = "7TT-EP-S2d"; */
+"7TT-EP-S2d.text" = "全职着装顾问经理";
+
+/* Class = "UILabel"; text = "退出登录"; ObjectID = "CRc-uy-lzI"; */
+"CRc-uy-lzI.text" = "退出登录";
+
+/* Class = "UILabel"; text = "18812341234"; ObjectID = "DoT-B9-jM8"; */
+"DoT-B9-jM8.text" = "18812341234";
+
+/* Class = "UILabel"; text = "同步面料数据"; ObjectID = "EQJ-X8-Wnq"; */
+"EQJ-X8-Wnq.text" = "同步面料数据";
+
+/* Class = "UILabel"; text = "版本号：build"; ObjectID = "ES9-vE-zLX"; */
+"ES9-vE-zLX.text" = "版本号：build";
+
+/* Class = "UITabBarItem"; title = "会员"; ObjectID = "F7N-Qd-GaR"; */
+"F7N-Qd-GaR.title" = "会员";
+
+/* Class = "UILabel"; text = "订单号："; ObjectID = "J3E-aI-26g"; */
+"J3E-aI-26g.text" = "订单号：";
+
+/* Class = "UILabel"; text = "12312312313"; ObjectID = "Jmc-Q7-n4M"; */
+"Jmc-Q7-n4M.text" = "12312312313";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "KDw-86-0Rp"; */
+"KDw-86-0Rp.title" = "我的";
+
+/* Class = "UILabel"; text = "成交总金额"; ObjectID = "KZI-Hv-KZR"; */
+"KZI-Hv-KZR.text" = "成交总金额";
+
+/* Class = "UILabel"; text = "佣金提现 >"; ObjectID = "LHY-ay-yBj"; */
+"LHY-ay-yBj.text" = "佣金提现 >";
+
+/* Class = "UIViewController"; title = "订单列表"; ObjectID = "MV8-ln-1ix"; */
+"MV8-ln-1ix.title" = "订单列表";
+
+/* Class = "UIBarButtonItem"; title = "关闭"; ObjectID = "MVz-DV-cFR"; */
+"MVz-DV-cFR.title" = "关闭";
+
+/* Class = "UIBarButtonItem"; title = "下一步"; ObjectID = "O5g-4M-zeY"; */
+"O5g-4M-zeY.title" = "下一步";
+
+/* Class = "UILabel"; text = "18914432312"; ObjectID = "OG1-J9-a2S"; */
+"OG1-J9-a2S.text" = "18914432312";
+
+/* Class = "UILabel"; text = "支付状态："; ObjectID = "PoR-Yv-qzu"; */
+"PoR-Yv-qzu.text" = "支付状态：";
+
+/* Class = "UINavigationItem"; title = "良衣Tailorism"; ObjectID = "Pra-FP-SN8"; */
+"Pra-FP-SN8.title" = "良衣Tailorism";
+
+/* Class = "UILabel"; text = "上海"; ObjectID = "Sk9-0Q-DHR"; */
+"Sk9-0Q-DHR.text" = "上海";
+
+/* Class = "UIButton"; normalTitle = "添加订单"; ObjectID = "TOf-ow-Swb"; */
+"TOf-ow-Swb.normalTitle" = "添加订单";
+
+/* Class = "UILabel"; text = "上海市杨浦区平凉路988弄"; ObjectID = "U2F-WK-6SW"; */
+"U2F-WK-6SW.text" = "上海市杨浦区平凉路988弄";
+
+/* Class = "UILabel"; text = "王某某"; ObjectID = "V0Q-ZI-G3x"; */
+"V0Q-ZI-G3x.text" = "王某某";
+
+/* Class = "UILabel"; text = "李先生"; ObjectID = "XOT-84-G1M"; */
+"XOT-84-G1M.text" = "李先生";
+
+/* Class = "UILabel"; text = "18916697656"; ObjectID = "Xe3-L4-5Tj"; */
+"Xe3-L4-5Tj.text" = "18916697656";
+
+/* Class = "UILabel"; text = "18916697656"; ObjectID = "Yk5-bZ-3cI"; */
+"Yk5-bZ-3cI.text" = "18916697656";
+
+/* Class = "UILabel"; text = "1.2.0"; ObjectID = "ZCa-PL-6zG"; */
+"ZCa-PL-6zG.text" = "1.2.0";
+
+/* Class = "UILabel"; text = "李先生"; ObjectID = "axS-AT-zgC"; */
+"axS-AT-zgC.text" = "李先生";
+
+/* Class = "UINavigationItem"; title = "会员"; ObjectID = "biO-db-CBV"; */
+"biO-db-CBV.title" = "会员";
+
+/* Class = "UILabel"; text = "18916697656"; ObjectID = "cHv-h7-0aj"; */
+"cHv-h7-0aj.text" = "18916697656";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eio-mS-VDw"; */
+"eio-mS-VDw.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "订单"; ObjectID = "hRT-fs-BH1"; */
+"hRT-fs-BH1.title" = "订单";
+
+/* Class = "UILabel"; text = "良衣Tailorism 着装顾问量体终端"; ObjectID = "ijj-u1-pv3"; */
+"ijj-u1-pv3.text" = "良衣Tailorism 着装顾问量体终端";
+
+/* Class = "UINavigationItem"; title = "会员"; ObjectID = "jjE-9I-srx"; */
+"jjE-9I-srx.title" = "会员";
+
+/* Class = "UILabel"; text = "订单状态："; ObjectID = "jnc-CM-qpW"; */
+"jnc-CM-qpW.text" = "订单状态：";
+
+/* Class = "UIButton"; normalTitle = "修改客户信息"; ObjectID = "mK4-fK-wgn"; */
+"mK4-fK-wgn.normalTitle" = "修改客户信息";
+
+/* Class = "UILabel"; text = "我的数据"; ObjectID = "mlV-d0-l5M"; */
+"mlV-d0-l5M.text" = "我的数据";
+
+/* Class = "UILabel"; text = "着装顾问:"; ObjectID = "mt3-Qc-J4f"; */
+"mt3-Qc-J4f.text" = "着装顾问:";
+
+/* Class = "UINavigationItem"; title = "我的"; ObjectID = "p5f-s6-SN7"; */
+"p5f-s6-SN7.title" = "我的";
+
+/* Class = "UILabel"; text = "18916697656"; ObjectID = "qLM-lR-dGj"; */
+"qLM-lR-dGj.text" = "18916697656";
+
+/* Class = "UILabel"; text = "区域:"; ObjectID = "s1T-a8-I3c"; */
+"s1T-a8-I3c.text" = "区域:";
+
+/* Class = "UILabel"; text = "18916697656"; ObjectID = "ubI-A2-3jR"; */
+"ubI-A2-3jR.text" = "18916697656";

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="16A322" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--信息确认-->
+        <scene sceneID="8AV-W4-R85">
+            <objects>
+                <viewController storyboardIdentifier="OrderDetailsController" title="信息确认" useStoryboardIdentifierAsRestorationIdentifier="YES" id="a9p-ZT-Z9k" customClass="OrderDetailsController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="8mg-PM-D6X"/>
+                        <viewControllerLayoutGuide type="bottom" id="goG-VA-wP6"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="aoz-x5-mwF">
+                        <rect key="frame" x="0.0" y="0.0" width="694" height="768"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="default" rowHeight="48" sectionHeaderHeight="18" sectionFooterHeight="18" translatesAutoresizingMaskIntoConstraints="NO" id="rZc-yS-jNQ">
+                                <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.92156862745098034" green="0.92549019607843142" blue="0.92156862745098034" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="rZc-yS-jNQ" firstAttribute="leading" secondItem="aoz-x5-mwF" secondAttribute="leadingMargin" constant="294" id="2qI-90-vbf">
+                                <variation key="widthClass=regular" constant="180"/>
+                            </constraint>
+                            <constraint firstItem="goG-VA-wP6" firstAttribute="top" secondItem="rZc-yS-jNQ" secondAttribute="bottom" constant="226" id="8i3-Lf-8EV">
+                                <variation key="widthClass=regular" constant="0.0"/>
+                            </constraint>
+                            <constraint firstItem="rZc-yS-jNQ" firstAttribute="top" secondItem="8mg-PM-D6X" secondAttribute="bottom" constant="226" id="EdJ-p6-8v5">
+                                <variation key="widthClass=regular" constant="0.0"/>
+                            </constraint>
+                            <constraint firstAttribute="trailingMargin" secondItem="rZc-yS-jNQ" secondAttribute="trailing" constant="226" id="hBa-8C-ajb">
+                                <variation key="widthClass=regular" constant="180"/>
+                            </constraint>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="rZc-yS-jNQ"/>
+                            </mask>
+                            <mask key="constraints">
+                                <exclude reference="8i3-Lf-8EV"/>
+                                <exclude reference="2qI-90-vbf"/>
+                                <exclude reference="EdJ-p6-8v5"/>
+                                <exclude reference="hBa-8C-ajb"/>
+                            </mask>
+                        </variation>
+                        <variation key="widthClass=regular">
+                            <mask key="subviews">
+                                <include reference="rZc-yS-jNQ"/>
+                            </mask>
+                            <mask key="constraints">
+                                <include reference="8i3-Lf-8EV"/>
+                                <include reference="2qI-90-vbf"/>
+                                <include reference="EdJ-p6-8v5"/>
+                                <include reference="hBa-8C-ajb"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="moneyGO" destination="qpc-Pz-MGz" id="dcW-ul-uOb"/>
+                        <outlet property="tableView" destination="rZc-yS-jNQ" id="viB-ye-qEV"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Uny-is-iSt" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <barButtonItem title="扫描收款" id="qpc-Pz-MGz">
+                    <connections>
+                        <action selector="moneyGO:" destination="a9p-ZT-Z9k" id="bFQ-YZ-7ae"/>
+                    </connections>
+                </barButtonItem>
+            </objects>
+            <point key="canvasLocation" x="1140.75" y="397"/>
+        </scene>
+    </scenes>
+</document>
